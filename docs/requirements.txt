@@ -12,7 +12,7 @@ boltons==18.0.1
 certifi==2019.3.9
 cffi==1.12.2 ; platform_python_implementation != 'PyPy'
 chardet==3.0.4
-cryptography==2.3.1
+cryptography==3.2
 cycler==0.10.0
 dnspython==1.15.0
 ecdsa==0.13
