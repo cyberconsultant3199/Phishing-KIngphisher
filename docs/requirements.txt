@@ -27,7 +27,7 @@ icalendar==4.0.3
 idna==2.6
 ipaddress==1.0.22
 iso8601==0.1.12
-jinja2==2.10.1
+jinja2==2.11.3
 jsonschema==2.6.0
 kiwisolver==1.0.1
 mako==1.0.9
