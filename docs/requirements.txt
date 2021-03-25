@@ -52,7 +52,7 @@ python-dateutil==2.8.0
 python-editor==1.0.4
 python-pam==1.8.3
 pytz==2018.4
-pyyaml==3.13
+pyyaml==5.4
 requests-file==1.4.3
 requests==2.18.4
 rule-engine==1.1.0
